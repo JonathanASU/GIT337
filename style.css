@@ -1,5 +1,9 @@
 
 /* style.css */
+
+
 h1 {
-    color: aqua;  
+    color: aqua;
+    font-size: 24px;
+    font-weight: bold;
 }
